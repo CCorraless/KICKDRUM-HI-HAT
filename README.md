@@ -33,6 +33,24 @@ DIY diseinu intuitiboari esker, perkusio-sintesiaren inguruan ikasteko aukera bi
 🔧 Eraiki zurea eta eraman zure soinua hurrengo mailara! 🚀
 
 
+# **Hi-Hats  – Proiektuaren Aurkezpena 🎛️🔊**
+
+Hi-Hats A Erica Synths-ek garatutako modulu analogikoa da Eurorack sistemetarako, Mooritz klein-ekin elkarlanean sortua. Hi-hat itxiak eta irekiak sortzeko aukera ematen du, kontrol eta pertsonalizazio handiarekin.
+
+<img src="https://nightlife-electronics.com/cdn/shop/files/EricaSynthsEDUDIYHiHat_540x.jpg?v=1704398624" alt="HI-HAT" width="300">
+
+Ezaugarri nagusiak:
+
+✔Tonuaren kontrola (TONE): Bi hi-hat-en tonua aldi berean doitzen du, beheko maiztasunak iragaziz.
+
+✔Jaitsieraren kontrola (DECAY): Hi-hat itxi eta irekiaren jaitsiera-denbora eskuz doitzea ahalbidetzen du.
+
+✔Tentsio-kontrolerako sarrerak (CV): Tonu eta jaitsiera kontrolatzeko CV sarrerak ditu, bakoitza bere atenuadorearekin, parametro horiek kanpoko modulazioarekin doitzeko.
+
+✔Audio irteerak: Hi-hat itxi eta irekiaren irteera independenteak eskaintzen ditu. Hi-hat itxiaren irteera konektatzen ez bada, automatikoki nahasten da irekiarenarekin.
+
+
+Hi-Hats A modulu analogikoen zaleentzako tresna ezin hobea da, soinu-diseinu zehatza edo zuzeneko emanaldiak egiteko aukera eskainiz.
 
 
 
