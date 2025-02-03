@@ -52,5 +52,48 @@ Ezaugarri nagusiak:
 
 Hi-Hats A modulu analogikoen zaleentzako tresna ezin hobea da, soinu-diseinu zehatza edo zuzeneko emanaldiak egiteko aukera eskainiz.
 
+# **Kick Drum DIY – Proiektuaren BILL OF MATERIALS 🎛️🔊**
+<img src="https://www.repsol.es/content/dam/images-ecommerce/particulares/asesoramiento/imagenes-contenido/contenido-post-resistencia-electrica.jpg" alt="HI-HAT" width="300">
+
+🔧ERRESISTENTZIEN BALIOAK / KANTITATEA
+
+1M x2
+
+470k x1
+
+120k x1
+
+100k x5
+
+47k x2
+
+39k x1
+
+33k x2
+
+14k x1
+
+10k x2
+
+2k x1
+
+1k x3
+
+10Ω x2
+
+🛠️KONDENTSADOREEN BALIOAK / KANTITATEA
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdiP35GDHE4kbrrFarqM2hOxOwvhCgcB4vYw&s" alt="HI-HAT" width="300">
 
 
+47µF (elektrolitikoa) x2
+
+220nF (film) x1
+
+100nF (zeramikoa) x6
+
+15n (film)	 	 	 x3
+
+10nF (film) x1
+
+3n3 (film) x1
