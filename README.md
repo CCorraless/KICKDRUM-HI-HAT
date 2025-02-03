@@ -101,3 +101,13 @@ Hi-Hats A modulu analogikoen zaleentzako tresna ezin hobea da, soinu-diseinu zeh
 10nF (film) x1
 
 3n3 (film) x1
+
+🔧DIODOEN REF. / KANTITATEA
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ79HyiwHxNaSyn3Ctpolb6ahgz8qwg1RDRhg&s" alt="HI-HAT" width="300">
+
+
+1N4148  x7
+
+1N5819  x2
+
