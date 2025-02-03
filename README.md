@@ -111,3 +111,10 @@ Hi-Hats A modulu analogikoen zaleentzako tresna ezin hobea da, soinu-diseinu zeh
 
 1N5819  x2
 
+🛠️TRANSISTOREEN REF. / KANTITATEA
+
+<img src="https://sumador.com/cdn/shop/products/152-2_grande.jpg?v=1549380345" alt="HI-HAT" width="300">
+
+BC558 (PNP) x2
+
+BC548/547 (NPN) x3
