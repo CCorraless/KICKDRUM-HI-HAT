@@ -58,27 +58,27 @@ Hi-Hats A modulu analogikoen zaleentzako tresna ezin hobea da, soinu-diseinu zeh
 
 <img src="https://www.repsol.es/content/dam/images-ecommerce/particulares/asesoramiento/imagenes-contenido/contenido-post-resistencia-electrica.jpg" alt="HI-HAT" width="300">
 
-1M x2
+1MΩ x2
 
-470k x1
+470kΩ x1
 
-120k x1
+120kΩ x1
 
-100k x5
+100kΩ x5
 
-47k x2
+47kΩ x2
 
-39k x1
+39kΩ x1
 
-33k x2
+33kΩ x2
 
-14k x1
+14kΩ x1
 
-10k x2
+10kΩ x2
 
-2k x1
+2kΩ x1
 
-1k x3
+1kΩ x3
 
 10Ω x2
 
