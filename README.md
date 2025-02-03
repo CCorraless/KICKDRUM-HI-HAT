@@ -118,3 +118,21 @@ Hi-Hats A modulu analogikoen zaleentzako tresna ezin hobea da, soinu-diseinu zeh
 BC558 (PNP) x2
 
 BC548/547 (NPN) x3
+
+🔧 POTENTZIOMETROEN BALIOAK / KANTITATEA
+
+<img src="https://res.cloudinary.com/rsc/image/upload/b_rgb:FFFFFF,c_pad,dpr_2.625,f_auto,h_214,q_auto,w_380/c_pad,h_214,w_380/F7293410-01?pgw=1" alt="HI-HAT" width="300">
+
+
+1M (B105) x1
+
+250k (B254) x1
+
+100k (B104) x2
+
+100k (A104) x1
+
+50k (B503) x1
+
+10k (B103) x1
+
