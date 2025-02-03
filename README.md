@@ -30,6 +30,7 @@ Funtzio nagusiak:
 
 DIY diseinu intuitiboari esker, perkusio-sintesiaren inguruan ikasteko aukera bikaina da, eta zure sistema modularrean bonbo sendo eta polifazetikoak gehitzeko aukera ematen du.
 
+
 🔧 Eraiki zurea eta eraman zure soinua hurrengo mailara! 🚀
 
 
@@ -51,6 +52,8 @@ Ezaugarri nagusiak:
 
 
 Hi-Hats A modulu analogikoen zaleentzako tresna ezin hobea da, soinu-diseinu zehatza edo zuzeneko emanaldiak egiteko aukera eskainiz.
+
+🔧 Eraiki zurea eta eraman zure soinua hurrengo mailara! 🚀
 
 # **Kick Drum DIY – Proiektuaren BILL OF MATERIALS 🎛️🔊**
 
