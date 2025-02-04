@@ -1,4 +1,4 @@
-# KICKDRUM-HI-HAT
+# KICKDRUM / HI-HAT
 GITHUB honetan bi proiektu aurkituko dituzu, behar bezalako dokumentazioarekin, zure etxeko erosotasunetik muntatzeko aukera izateko.
 <img src="https://nightlife-electronics.com/cdn/shop/files/EDUDIYKickDrums_900x.jpg?v=1692643542" alt="KICK DRUM" width="300">
 <img src="https://nightlife-electronics.com/cdn/shop/files/EricaSynthsEDUDIYHiHat_540x.jpg?v=1704398624" alt="HI-HAT" width="300">
@@ -59,7 +59,7 @@ Hi-Hats A modulu analogikoen zaleentzako tresna ezin hobea da, soinu-diseinu zeh
 ---
 🔧ERRESISTENTZIEN BALIOAK / KANTITATEA
 
-<img src="https://www.repsol.es/content/dam/images-ecommerce/particulares/asesoramiento/imagenes-contenido/contenido-post-resistencia-electrica.jpg" alt="HI-HAT" width="300">
+<img src="https://www.repsol.es/content/dam/images-ecommerce/particulares/asesoramiento/imagenes-contenido/contenido-post-resistencia-electrica.jpg" alt="HI-HAT" width="200">
 
 1MΩ x2
 
@@ -87,7 +87,7 @@ Hi-Hats A modulu analogikoen zaleentzako tresna ezin hobea da, soinu-diseinu zeh
 
 🛠️KONDENTSADOREEN BALIOAK / KANTITATEA
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdiP35GDHE4kbrrFarqM2hOxOwvhCgcB4vYw&s" alt="HI-HAT" width="300">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdiP35GDHE4kbrrFarqM2hOxOwvhCgcB4vYw&s" alt="HI-HAT" width="200">
 
 
 47µF (elektrolitikoa) x2
@@ -104,7 +104,7 @@ Hi-Hats A modulu analogikoen zaleentzako tresna ezin hobea da, soinu-diseinu zeh
 
 🔧DIODOEN REF. / KANTITATEA
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ79HyiwHxNaSyn3Ctpolb6ahgz8qwg1RDRhg&s" alt="HI-HAT" width="300">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ79HyiwHxNaSyn3Ctpolb6ahgz8qwg1RDRhg&s" alt="HI-HAT" width="200">
 
 
 1N4148  x7
@@ -113,7 +113,7 @@ Hi-Hats A modulu analogikoen zaleentzako tresna ezin hobea da, soinu-diseinu zeh
 
 🛠️TRANSISTOREEN REF. / KANTITATEA
 
-<img src="https://sumador.com/cdn/shop/products/152-2_grande.jpg?v=1549380345" alt="HI-HAT" width="300">
+<img src="https://sumador.com/cdn/shop/products/152-2_grande.jpg?v=1549380345" alt="HI-HAT" width="200">
 
 BC558 (PNP) x2
 
@@ -121,7 +121,7 @@ BC548/547 (NPN) x3
 
 🔧 POTENTZIOMETROEN BALIOAK / KANTITATEA
 
-<img src="https://res.cloudinary.com/rsc/image/upload/b_rgb:FFFFFF,c_pad,dpr_2.625,f_auto,h_214,q_auto,w_380/c_pad,h_214,w_380/F7293410-01?pgw=1" alt="HI-HAT" width="300">
+<img src="https://res.cloudinary.com/rsc/image/upload/b_rgb:FFFFFF,c_pad,dpr_2.625,f_auto,h_214,q_auto,w_380/c_pad,h_214,w_380/F7293410-01?pgw=1" alt="HI-HAT" width="200">
 
 
 1M (B105) x1
@@ -138,7 +138,7 @@ BC548/547 (NPN) x3
 
 🛠️ TXIPEN REF. / KANTITATEA
 
-<img src="https://m.media-amazon.com/images/I/51OJAo7rUoL._AC_UF894,1000_QL80_.jpg" alt="HI-HAT" width="300">
+<img src="https://m.media-amazon.com/images/I/51OJAo7rUoL._AC_UF894,1000_QL80_.jpg" alt="HI-HAT" width="200">
 
 TL072 (dual op amp) x2
 
@@ -147,7 +147,7 @@ TL072 (dual op amp) x2
 ---
 🔧ERRESISTENTZIEN BALIOAK / KANTITATEA
 
-<img src="https://www.repsol.es/content/dam/images-ecommerce/particulares/asesoramiento/imagenes-contenido/contenido-post-resistencia-electrica.jpg" alt="HI-HAT" width="300">
+<img src="https://www.repsol.es/content/dam/images-ecommerce/particulares/asesoramiento/imagenes-contenido/contenido-post-resistencia-electrica.jpg" alt="HI-HAT" width="200">
 
 1M x1
 
@@ -189,7 +189,7 @@ TL072 (dual op amp) x2
 
 🛠️KONDENTSADOREEN BALIOAK / KANTITATEA
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdiP35GDHE4kbrrFarqM2hOxOwvhCgcB4vYw&s" alt="HI-HAT" width="300">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdiP35GDHE4kbrrFarqM2hOxOwvhCgcB4vYw&s" alt="HI-HAT" width="200">
 
 
 47µF (elektrolitikoa) x2
@@ -212,7 +212,7 @@ TL072 (dual op amp) x2
 
 🔧DIODOEN REF. / KANTITATEA
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ79HyiwHxNaSyn3Ctpolb6ahgz8qwg1RDRhg&s" alt="HI-HAT" width="300">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ79HyiwHxNaSyn3Ctpolb6ahgz8qwg1RDRhg&s" alt="HI-HAT" width="200">
 
 
 1N4148  x6
@@ -221,7 +221,7 @@ TL072 (dual op amp) x2
 
 🛠️TRANSISTOREEN REF. / KANTITATEA
 
-<img src="https://sumador.com/cdn/shop/products/152-2_grande.jpg?v=1549380345" alt="HI-HAT" width="300">
+<img src="https://sumador.com/cdn/shop/products/152-2_grande.jpg?v=1549380345" alt="HI-HAT" width="200">
 
 BC558 (PNP) x2
 
@@ -229,7 +229,7 @@ BC548/547 (NPN) x4
 
 🔧 POTENTZIOMETROEN BALIOAK / KANTITATEA
 
-<img src="https://res.cloudinary.com/rsc/image/upload/b_rgb:FFFFFF,c_pad,dpr_2.625,f_auto,h_214,q_auto,w_380/c_pad,h_214,w_380/F7293410-01?pgw=1" alt="HI-HAT" width="300">
+<img src="https://res.cloudinary.com/rsc/image/upload/b_rgb:FFFFFF,c_pad,dpr_2.625,f_auto,h_214,q_auto,w_380/c_pad,h_214,w_380/F7293410-01?pgw=1" alt="HI-HAT" width="200">
 
 
 250k (B254) x1
@@ -240,7 +240,7 @@ BC548/547 (NPN) x4
 
 🛠️ TXIPEN REF. / KANTITATEA
 
-<img src="https://m.media-amazon.com/images/I/51OJAo7rUoL._AC_UF894,1000_QL80_.jpg" alt="HI-HAT" width="300">
+<img src="https://m.media-amazon.com/images/I/51OJAo7rUoL._AC_UF894,1000_QL80_.jpg" alt="HI-HAT" width="200">
 
 TL072 (dual op amp) x2
 
