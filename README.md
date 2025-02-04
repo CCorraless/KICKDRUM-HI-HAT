@@ -136,3 +136,9 @@ BC548/547 (NPN) x3
 
 10k (B103) x1
 
+🛠️ TXIPEN REF. / KANTITATEA
+
+<img src="https://m.media-amazon.com/images/I/51OJAo7rUoL._AC_UF894,1000_QL80_.jpg" alt="HI-HAT" width="300">
+
+TL072 (dual op amp) x2
+
