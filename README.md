@@ -246,3 +246,11 @@ TL072 (dual op amp) x2
 
 40106 (trigger inverter) x1
 
+SOFTWARE
+---
+
+Proteus 8 Professional tresna indartsua da zirkuitu elektronikoen diseinu eta simulaziorako, PCB (Printed Circuit Board) diseinu funtzio aurreratuak eta zirkuitu digital zein analogikoen simulazioa konbinatzen dituena. Ingeniari, teknikari eta ikasleek asko erabiltzen dute zirkuitu elektronikoak garatu eta probatzeko, hardware erreal batean ezarri aurretik.
+
+Gure proiektuan, Proteus 8 Professional erabili dugu garapenaren hainbat etapa simulatzeko, zirkuituaren portaera aztertzeko, akats posibleak identifikatzeko eta errendimendua optimizatzeko aukera emanez. Tresna honi esker, proiektuaren modulu bakoitzaren funtzionamendu egokia egiaztatu ahal izan dugu, eraginkortasuna handituz eta prototipoen kostuak murriztuz.
+
+<img src="https://www.pcbnow.eu/image/cache/catalog/blog/technical_support/Proteus/logo-1400x875.png" alt="HI-HAT" width="300">
