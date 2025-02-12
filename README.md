@@ -9,6 +9,11 @@ Lehengoz, Bihotz-bihotzez eskerrak eman nahi dizkiogu **Erica Synths** eta **Mor
 
 Haien eskuzabaltasunari esker, baliabide, informazio eta ezagutza ugari partekatu dituzte, eta horrek ezinbesteko ekarpena egin dio sintesi modularraren komunitateari. Haien lanari esker, soinu-diseinua aztertzen, zirkuitu berriekin esperimentatzen eta musika elektronikaren mundu zirraragarrian ikasten jarrai dezakegu.  
 
+👉 Lotura honetan [LINKA](ericasynths.lv)  askoz gehiago aurki dezakezu Erica Synths-en proiektuei buruz! 🎛🔊
+
+Bertan, modulu berriak, tutorialak eta inspirazioa aurkituko dituzu zure sintesi modularraren bidaiari ekiteko edo hobetzeko.
+
+🔹 Zalantzarik baduzu edo informazio gehiago nahi baduzu, bisitatu lotura hori eta aurkitu behar duzun guztia! 🚀
 
 
 
