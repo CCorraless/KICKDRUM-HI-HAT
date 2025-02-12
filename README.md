@@ -14,6 +14,7 @@ Haien eskuzabaltasunari esker, baliabide, informazio eta ezagutza ugari partekat
 
 # **Kick Drum DIY – Proiektuaren Aurkezpena 🎛️🔊**
 Erica Synths eta Moritz Klein-en Kick Drum DIY modulu analogikoa Eurorack sintetizadore modularrentzako perkusio-modulua da. Bere zirkuitua osziladore erresonante batean oinarritzen da, bonbo indartsu eta kolpe garbikoak sortzeko diseinatua.
+
 <img src="https://nightlife-electronics.com/cdn/shop/files/EDUDIYKickDrums_900x.jpg?v=1692643542" alt="KICK DRUM" width="300">
 
 Funtzio nagusiak:
