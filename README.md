@@ -255,7 +255,7 @@ TL072 (dual op amp) x2
 SOFTWARE
 ---
 
-Proteus 8 Professional tresna indartsua da zirkuitu elektronikoen diseinu eta simulaziorako, PCB (Printed Circuit Board) diseinu funtzio aurreratuak eta zirkuitu digital zein analogikoen simulazioa konbinatzen dituena. Ingeniari, teknikari eta ikasleek asko erabiltzen dute zirkuitu elektronikoak garatu eta probatzeko, hardware erreal batean ezarri aurretik.
+[Proteus 8 Professional](https://www.labcenter.com/) tresna indartsua da zirkuitu elektronikoen diseinu eta simulaziorako, PCB (Printed Circuit Board) diseinu funtzio aurreratuak eta zirkuitu digital zein analogikoen simulazioa konbinatzen dituena. Ingeniari, teknikari eta ikasleek asko erabiltzen dute zirkuitu elektronikoak garatu eta probatzeko, hardware erreal batean ezarri aurretik.
 
 Gure proiektuan, Proteus 8 Professional erabili dugu garapenaren hainbat etapa simulatzeko, zirkuituaren portaera aztertzeko, akats posibleak identifikatzeko eta errendimendua optimizatzeko aukera emanez. Tresna honi esker, proiektuaren modulu bakoitzaren funtzionamendu egokia egiaztatu ahal izan dugu, eraginkortasuna handituz eta prototipoen kostuak murriztuz.
 
