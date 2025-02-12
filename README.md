@@ -2,6 +2,7 @@
 GITHUB honetan bi proiektu aurkituko dituzu, behar bezalako dokumentazioarekin, zure etxeko erosotasunetik muntatzeko aukera izateko.
 
 <img src="https://nightlife-electronics.com/cdn/shop/files/EDUDIYKickDrums_900x.jpg?v=1692643542" alt="KICK DRUM" width="270">
+
 <img src="https://nightlife-electronics.com/cdn/shop/files/EricaSynthsEDUDIYHiHat_540x.jpg?v=1704398624" alt="HI-HAT" width="270">
 
 # **Eskerrik asko, Erica Synths eta Moritz Klein! 🎛️🎶**  
