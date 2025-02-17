@@ -87,3 +87,17 @@ Ongi etorri GitHub proiektuaren Wikira! 📚 [Hemen](https://github.com/CCorrale
 ✅ Proiektua konfiguratzeko eta ekarpenak egiteko urratsak 🚀
 
 Ez galdu aukera Wiki hau esploratzeko eta proiektuan sakontzeko! 🔍💡
+
+# 🎖️ Kredituak
+---
+
+Proiektu hau dedikazio eta lan handiz garatu dute:
+
+👨‍💻 Eneko Corrales eneko.corrales05@ikasle.db.eus
+
+👨‍💻 Oier Elgeta oier.elgeta05@ikasle.db.eus
+
+👨‍💻 Ion Bea ion.bea04@ikasle.db.eus
+
+Proiektuari buruz gehiago jakin edo lagundu nahi baduzu, github-an informazio bilatu edo gurekin kontaktatu! 🤝
+
