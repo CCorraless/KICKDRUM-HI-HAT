@@ -71,3 +71,19 @@ SOFTWARE
 Gure proiektuan, Proteus 8 Professional erabili dugu garapenaren hainbat etapa simulatzeko, zirkuituaren portaera aztertzeko, akats posibleak identifikatzeko eta errendimendua optimizatzeko aukera emanez. Tresna honi esker, proiektuaren modulu bakoitzaren funtzionamendu egokia egiaztatu ahal izan dugu, eraginkortasuna handituz eta prototipoen kostuak murriztuz.
 
 <img src="https://www.pcbnow.eu/image/cache/catalog/blog/technical_support/Proteus/logo-1400x875.png" alt="HI-HAT" width="300">
+
+
+# 🚀 GitHub Wikiaren Sarrera
+---
+
+Ongi etorri GitHub proiektuaren Wikira! 📚 [Hemen](https://github.com/CCorraless/KICKDRUM-HI-HAT/wiki), proiektua garatzen hasteko behar duzun informazio guztia aurkituko duzu.
+
+🔹 Zer aurkituko duzu hemen?
+
+✅ Gidak eta dokumentazio teknikoa 📖
+
+✅ zirkuituak eta eskemak 🛠️
+
+✅ Proiektua konfiguratzeko eta ekarpenak egiteko urratsak 🚀
+
+Ez galdu aukera Wiki hau esploratzeko eta proiektuan sakontzeko! 🔍💡
